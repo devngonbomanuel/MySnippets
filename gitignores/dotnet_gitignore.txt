@@ -21,7 +21,7 @@ packages/
 *.nuget.targets
 
 # --Content: Arquivos de Teste e Cobertura--
- TestResults/
+TestResults/
 *.coverage
 *.coveragexml
 
