@@ -2,7 +2,7 @@
     "Template de Estilização CSS.": {
         "prefix": "devngombomanuel-style-css",
         "body": [
-            "/*--Content: Estilizacao do documento HTML--*/",
+            "/*--CONTENT: Estilizacao do documento HTML--*/",
             "html{",
             "font-size: 16px;",
             "scroll-behavior: smooth;",
@@ -10,7 +10,7 @@
             "}",
             "",
             "",
-            "/*--Content: Variáveis (cores, fontes, tamanhos...)--*/",
+            "/*--CONTENT: Variáveis (cores, fontes, tamanhos...)--*/",
             ":root{",
             "--off-white: #faf9f6;",
             "--alice-blue: #f0f8ff;",
@@ -42,7 +42,7 @@
             "--primary-heading: normal normal bold 1.5rem/2rem Georgia, serif;",
             "}",
             "",
-            "/*-- Content: Reset básico*/",
+            "/*-- CONTENT: Reset básico*/",
             "body{",
             "margin: 0;",
             "padding: 0;",
